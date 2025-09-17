@@ -1,3 +1,4 @@
+![header](images/header.png)
 # Hi there 👋, I'm Elian3x14
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building web applications, especially with **NestJS**, **Next.js**, and modern JavaScript frameworks. Here you'll find projects ranging from e-commerce solutions to educational platforms and personal utilities.
